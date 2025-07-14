@@ -12,7 +12,7 @@ You will build a blog application with the following features:
 4. User authentication and authorization
 5. Advanced features like image uploads and comments
 
-## Project Structure
+## Project Structur
 
 ```
 mern-blog/
